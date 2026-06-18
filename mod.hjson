@@ -1,0 +1,28 @@
+name: "24lowie-planets"
+displayName: "Expanded solar system"
+author: "24lowie"
+description:
+'''
+WORK IN DEVELOPMENT
+
+a mod having lots of planets & bugs but still beta so idc
+
+
+Made by a phone user
+
+music by
+: [link]
+
+
+there may be neoplasm
+
+Terra is basically earth but -1 farenheit
+
+Uses some assets from exoprospa so ye
+
+
+'''
+version: "beta 1"
+minGameVersion: "156"
+subtitle: "help phone or computee"
+repo: "hiboy/expanded-solar-system"

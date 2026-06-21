@@ -1,0 +1,11 @@
+type: Item
+name: iron
+description: A metallic resource for building.
+color: #beb47f
+hardness: 2
+cost: 0.8
+alwaysUnlocked: true
+research: {
+parent: core-extra
+}
+Shownonplanets: [terra]
